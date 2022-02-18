@@ -1,0 +1,7 @@
+server:
+  port: 8900
+
+logging:
+  file:
+    name: ./logs/group-robot.log
+    max-history: 30
