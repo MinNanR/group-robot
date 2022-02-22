@@ -23,7 +23,7 @@ public class QueryTest {
     @Autowired
     private QueryService queryService;
 
-    static final HttpCookie cookie = new HttpCookie("isolate-web-session-id", "484ec88f-7811-4c6d-a12b-28f2b39fbea0");
+    static final HttpCookie cookie = new HttpCookie("isolate-web-session-id", "cdf4857f-b45f-406e-94a6-2ee1cb4480c9");
 
     static final String userAgent = "ozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1 Edg/98.0.4758.102";
 

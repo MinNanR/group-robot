@@ -5,3 +5,9 @@ logging:
   file:
     name: ./logs/group-robot.log
     max-history: 30
+spring:
+  redis:
+    host: minnan.site
+    port: 6379
+    password: minnan
+    database: 1
